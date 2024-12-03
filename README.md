@@ -1,7 +1,3 @@
-Here’s an updated version of the README with the cloning instructions and additional useful information:
-
----
-
 # 🎄 Advent of Code 2024 🎄
 
 Welcome to my **Advent of Code 2024** repository! 🎉 This is where I document and share my daily solutions to the Advent of Code puzzles. Each day, I tackle a new programming challenge, and this repo is my journey through them! 🚀
