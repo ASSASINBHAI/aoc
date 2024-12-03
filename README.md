@@ -12,10 +12,19 @@ Daily solutions to each Advent of Code 2024 puzzle 📆
 Clean, readable code with explanations 📝
 Experimenting with different languages and algorithms 🔍
 Feel free to explore and suggest improvements! 🔧
-🌟 How to Explore
-Clone the repo and check out each day’s solution 🧳
-Each folder contains the code and a brief explanation of the approach 🔍
-You can also follow along or contribute your own solutions! 🤝
+🚀 Getting Started
+To clone the repository and get started with the solutions, run the following command in your terminal:
+
+bash
+Copy code
+git clone https://github.com/ASSASINBHAI/aoc.git
+Then, navigate into the directory:
+
+bash
+Copy code
+cd aoc
+Now, you're all set to explore the daily solutions! 🎉
+
 📢 Stay Connected
 Feel free to open an issue or submit a PR if you have any suggestions or improvements 💬
 Don't forget to star ⭐ the repo if you enjoy the solutions!
