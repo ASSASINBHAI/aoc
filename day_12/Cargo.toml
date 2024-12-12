@@ -1,0 +1,9 @@
+[package]
+name = "day_12"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+itertools="0.13.0"
+ndarray="0.16.1"
+ndarray-stats="0.6.0"
